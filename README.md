@@ -392,7 +392,10 @@ This repository contains prompt chains for the following domains:
   ```text
   "Evaluate the provided landing page layout. Suggest improvements in layout hierarchy, visual balance, and call-to-action placement. Return a list of actionable layout changes."
   ```
-
+* **Design a User Onboarding Flow**
+   ```text
+   "Design a simple and effective onboarding flow for a new user of {app name}. Include steps, UI elements like tooltips or modals, and how to maintain user engagement during onboarding."
+   ```
 ---
 
 ### **7. Security & Authentication**
